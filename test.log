@@ -1,0 +1,57 @@
+DEBUG:root:[<dish.Dish instance at 0x104783440>, <dish.Dish instance at 0x104783320>, <ingredient.Ingredient instance at 0x10477fcf8>]
+2019-08-10 17:06:50,193:[<dish.Dish instance at 0x104f83440>, <dish.Dish instance at 0x104f83320>, <ingredient.Ingredient instance at 0x104f7fcf8>]
+2019-08-10 17:07:53,541:DEBUG:[<dish.Dish instance at 0x104f83440>, <dish.Dish instance at 0x104f83320>, <ingredient.Ingredient instance at 0x104f7fcf8>]
+2019-08-10 18:57:16,907:ingredient:ERROR:Invalid type
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/idlelib/run.py", line 111, in main
+    seq, request = rpc.request_queue.get(block=True, timeout=0.05)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/Queue.py", line 176, in get
+    raise Empty
+Empty
+2019-08-10 19:01:20,868:ingredient:ERROR:Invalid
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/ingredient.py", line 33, in __init__
+    raise ValueError
+ValueError
+2019-08-10 19:01:20,969:ingredient:INFO:Ingredient Created: 1
+2019-08-10 19:01:20,970:ingredient:INFO:Ingredient Created: banana
+2019-08-10 19:01:20,970:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 19:01:20,970:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 19:01:20,970:root:DEBUG:[<dish.Dish instance at 0x100e66cf8>, <dish.Dish instance at 0x100e66440>, <ingredient.Ingredient instance at 0x100e552d8>]
+2019-08-10 19:01:27,472:ingredient:ERROR:Invalid
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/ingredient.py", line 33, in __init__
+    raise ValueError
+ValueError
+2019-08-10 19:01:27,570:ingredient:INFO:Ingredient Created: 1
+2019-08-10 19:01:27,570:ingredient:INFO:Ingredient Created: banana
+2019-08-10 19:01:27,570:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 19:01:27,570:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 19:01:27,571:root:DEBUG:[<dish.Dish instance at 0x104f7a3f8>, <dish.Dish instance at 0x104f84098>, <ingredient.Ingredient instance at 0x104f7f3f8>]
+2019-08-10 19:06:15,105:ingredient:ERROR:Invalid
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/ingredient.py", line 33, in __init__
+    raise ValueError
+ValueError
+2019-08-10 19:06:15,198:ingredient:INFO:Ingredient Created: banana
+2019-08-10 19:06:15,198:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 19:06:15,198:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 19:06:15,198:root:DEBUG:[<dish.Dish instance at 0x104f7ac20>, <dish.Dish instance at 0x104f84440>, <ingredient.Ingredient instance at 0x104f732d8>]
+2019-08-10 19:08:45,795:ingredient:ERROR:Invalid
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/ingredient.py", line 33, in __init__
+    raise ValueError
+ValueError
+2019-08-10 19:08:45,996:ingredient:INFO:Ingredient Created: banana
+2019-08-10 19:08:45,997:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 19:08:45,998:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 19:08:45,998:root:DEBUG:[<dish.Dish instance at 0x101e60c20>, <dish.Dish instance at 0x101e6a440>, <ingredient.Ingredient instance at 0x101e5ad40>]
+2019-08-10 19:09:33,820:ingredient:ERROR:Invalid
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/ingredient.py", line 35, in __init__
+    raise ValueError
+ValueError
+2019-08-10 19:09:33,984:ingredient:INFO:Ingredient Created: banana
+2019-08-10 19:09:33,984:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 19:09:33,985:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 19:09:33,985:root:DEBUG:[<dish.Dish instance at 0x102591488>, <dish.Dish instance at 0x10259b7e8>, <ingredient.Ingredient instance at 0x10258bd40>]

@@ -1,0 +1,73 @@
+INFO:root:Ingredient Created
+INFO:root:Ingredient Created
+INFO:root:Ingredient Created
+INFO:root:Ingredient Created
+INFO:root:Ingredient Created: green pepper
+INFO:root:Ingredient Created: banana
+INFO:root:Ingredient Created: strawberry
+INFO:root:Ingredient Created: spinach
+2019-08-10 17:20:04,121:Ingredient Created: green pepper
+2019-08-10 17:20:04,121:Ingredient Created: banana
+2019-08-10 17:20:04,121:Ingredient Created: strawberry
+2019-08-10 17:20:04,121:Ingredient Created: spinach
+2019-08-10 17:20:43,354:INFO:Ingredient Created: green pepper
+2019-08-10 17:20:43,354:INFO:Ingredient Created: banana
+2019-08-10 17:20:43,354:INFO:Ingredient Created: strawberry
+2019-08-10 17:20:43,355:INFO:Ingredient Created: spinach
+2019-08-10 17:31:35,668:INFO:Ingredient Created: green pepper
+2019-08-10 17:31:35,668:INFO:Ingredient Created: banana
+2019-08-10 17:31:35,668:INFO:Ingredient Created: strawberry
+2019-08-10 17:31:35,668:INFO:Ingredient Created: spinach
+2019-08-10 17:33:05,804:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 17:33:05,805:ingredient:INFO:Ingredient Created: banana
+2019-08-10 17:33:05,805:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 17:33:05,805:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 18:57:16,907:ingredient:ERROR:Invalid type
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/idlelib/run.py", line 111, in main
+    seq, request = rpc.request_queue.get(block=True, timeout=0.05)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/Queue.py", line 176, in get
+    raise Empty
+Empty
+2019-08-10 19:01:20,868:ingredient:ERROR:Invalid
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/ingredient.py", line 33, in __init__
+    raise ValueError
+ValueError
+2019-08-10 19:01:20,969:ingredient:INFO:Ingredient Created: 1
+2019-08-10 19:01:20,970:ingredient:INFO:Ingredient Created: banana
+2019-08-10 19:01:20,970:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 19:01:20,970:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 19:01:27,472:ingredient:ERROR:Invalid
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/ingredient.py", line 33, in __init__
+    raise ValueError
+ValueError
+2019-08-10 19:01:27,570:ingredient:INFO:Ingredient Created: 1
+2019-08-10 19:01:27,570:ingredient:INFO:Ingredient Created: banana
+2019-08-10 19:01:27,570:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 19:01:27,570:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 19:06:15,105:ingredient:ERROR:Invalid
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/ingredient.py", line 33, in __init__
+    raise ValueError
+ValueError
+2019-08-10 19:06:15,198:ingredient:INFO:Ingredient Created: banana
+2019-08-10 19:06:15,198:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 19:06:15,198:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 19:08:45,795:ingredient:ERROR:Invalid
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/ingredient.py", line 33, in __init__
+    raise ValueError
+ValueError
+2019-08-10 19:08:45,996:ingredient:INFO:Ingredient Created: banana
+2019-08-10 19:08:45,997:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 19:08:45,998:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 19:09:33,820:ingredient:ERROR:Invalid
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/ingredient.py", line 35, in __init__
+    raise ValueError
+ValueError
+2019-08-10 19:09:33,984:ingredient:INFO:Ingredient Created: banana
+2019-08-10 19:09:33,984:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 19:09:33,985:ingredient:INFO:Ingredient Created: spinach
