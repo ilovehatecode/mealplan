@@ -1,11 +1,25 @@
+import logging
 
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+
+formatter = logging.Formatter('%(asctime)s:%(name)s:%(levelname)s:%(message)s')
+
+file_handler = logging.FileHandler('meal.log')
+file_handler.setFormatter(formatter)
+
+logger.addHandler(file_handler)
 class Meal:
 
     def __init__(self, meal):
-        if type(meal) == list:
-            self.meal = meal
-        else:
-            raise 'meal must be a list'
+        self.meal = None
+        try:
+            if type(meal) == list:
+                self.meal = meal
+            else:
+                raise ValueError
+        except ValueError as e:
+                logger.exception(e)
 
     def getMeal(self):
         return self.meal

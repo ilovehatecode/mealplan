@@ -1,0 +1,15 @@
+2019-08-10 20:50:25,241:meal:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/meal.py", line 19, in __init__
+    raise ValueError
+ValueError
+2019-08-10 20:53:58,423:meal:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/meal.py", line 19, in __init__
+    raise ValueError
+ValueError
+2019-08-10 20:55:15,506:meal:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/meal.py", line 20, in __init__
+    raise ValueError
+ValueError

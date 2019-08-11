@@ -149,3 +149,79 @@ ValueError
 2019-08-10 19:44:29,007:ingredient:INFO:Ingredient Created: salmon
 2019-08-10 19:44:29,007:ingredient:INFO:Ingredient Created: milk
 2019-08-10 19:44:29,007:ingredient:INFO:Ingredient Created: oregano
+2019-08-10 19:49:16,302:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 19:49:16,302:ingredient:INFO:Ingredient Created: green apple
+2019-08-10 19:49:16,302:ingredient:INFO:Ingredient Created: peanuts
+2019-08-10 19:49:16,302:ingredient:INFO:Ingredient Created: bread
+2019-08-10 19:49:16,302:ingredient:INFO:Ingredient Created: pinto beans
+2019-08-10 19:49:16,302:ingredient:INFO:Ingredient Created: steak
+2019-08-10 19:49:16,303:ingredient:INFO:Ingredient Created: salmon
+2019-08-10 19:49:16,303:ingredient:INFO:Ingredient Created: milk
+2019-08-10 19:49:16,303:ingredient:INFO:Ingredient Created: oregano
+2019-08-10 19:49:16,390:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 19:49:16,390:ingredient:INFO:Ingredient Created: green apple
+2019-08-10 19:49:16,391:ingredient:INFO:Ingredient Created: peanuts
+2019-08-10 19:49:16,391:ingredient:INFO:Ingredient Created: bread
+2019-08-10 19:49:16,391:ingredient:INFO:Ingredient Created: pinto beans
+2019-08-10 19:49:16,391:ingredient:INFO:Ingredient Created: steak
+2019-08-10 19:49:16,392:ingredient:INFO:Ingredient Created: salmon
+2019-08-10 19:49:16,393:ingredient:INFO:Ingredient Created: milk
+2019-08-10 19:49:16,393:ingredient:INFO:Ingredient Created: oregano
+2019-08-10 19:49:50,115:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 19:49:50,115:ingredient:INFO:Ingredient Created: green apple
+2019-08-10 19:49:50,115:ingredient:INFO:Ingredient Created: peanuts
+2019-08-10 19:49:50,115:ingredient:INFO:Ingredient Created: bread
+2019-08-10 19:49:50,115:ingredient:INFO:Ingredient Created: pinto beans
+2019-08-10 19:49:50,115:ingredient:INFO:Ingredient Created: steak
+2019-08-10 19:49:50,115:ingredient:INFO:Ingredient Created: salmon
+2019-08-10 19:49:50,116:ingredient:INFO:Ingredient Created: milk
+2019-08-10 19:49:50,116:ingredient:INFO:Ingredient Created: oregano
+2019-08-10 19:49:50,171:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 19:49:50,172:ingredient:INFO:Ingredient Created: green apple
+2019-08-10 19:49:50,172:ingredient:INFO:Ingredient Created: peanuts
+2019-08-10 19:49:50,172:ingredient:INFO:Ingredient Created: bread
+2019-08-10 19:49:50,172:ingredient:INFO:Ingredient Created: pinto beans
+2019-08-10 19:49:50,173:ingredient:INFO:Ingredient Created: steak
+2019-08-10 19:49:50,173:ingredient:INFO:Ingredient Created: salmon
+2019-08-10 19:49:50,173:ingredient:INFO:Ingredient Created: milk
+2019-08-10 19:49:50,174:ingredient:INFO:Ingredient Created: oregano
+2019-08-10 20:38:09,434:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:38:09,436:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:38:09,436:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:38:09,436:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:38:33,736:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:38:33,737:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:38:33,737:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:38:33,737:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:39:50,141:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:39:50,143:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:39:50,144:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:39:50,144:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:40:12,118:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:40:12,120:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:40:12,121:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:40:12,121:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:49:10,819:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:49:10,819:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:49:10,819:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:49:10,819:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:49:34,350:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:49:34,350:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:49:34,350:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:49:34,350:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:49:53,950:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:49:53,951:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:49:53,952:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:49:53,952:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:50:07,590:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:50:07,592:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:50:07,592:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:50:07,592:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:50:25,240:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:50:25,241:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:50:25,241:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:50:25,241:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:55:15,505:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:55:15,505:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:55:15,505:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:55:15,506:ingredient:INFO:Ingredient Created: spinach

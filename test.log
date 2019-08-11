@@ -55,3 +55,110 @@ ValueError
 2019-08-10 19:09:33,984:ingredient:INFO:Ingredient Created: strawberry
 2019-08-10 19:09:33,985:ingredient:INFO:Ingredient Created: spinach
 2019-08-10 19:09:33,985:root:DEBUG:[<dish.Dish instance at 0x102591488>, <dish.Dish instance at 0x10259b7e8>, <ingredient.Ingredient instance at 0x10258bd40>]
+2019-08-10 20:38:09,434:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:38:09,436:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:38:09,436:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:38:09,436:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:38:33,736:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:38:33,737:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:38:33,737:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:38:33,737:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:38:33,737:root:DEBUG:Created - Dish 1
+2019-08-10 20:38:33,738:root:DEBUG:Created - Dish 2
+2019-08-10 20:38:33,738:root:DEBUG:[<dish.Dish instance at 0x104f83290>, <dish.Dish instance at 0x104f83440>, <ingredient.Ingredient instance at 0x104f7f3f8>]
+2019-08-10 20:39:50,141:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:39:50,143:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:39:50,144:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:39:50,144:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:39:50,144:dish:DEBUG:Created - Dish 1
+2019-08-10 20:39:50,144:dish:DEBUG:Created - Dish 2
+2019-08-10 20:39:50,145:root:DEBUG:[<dish.Dish instance at 0x104f83440>, <dish.Dish instance at 0x104f83320>, <ingredient.Ingredient instance at 0x104f7f3f8>]
+2019-08-10 20:40:12,118:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:40:12,120:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:40:12,121:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:40:12,121:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:40:12,121:dish:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/dish.py", line 18, in __init__
+    raise ValueError
+ValueError
+2019-08-10 20:40:12,121:dish:DEBUG:Created - Dish 2
+2019-08-10 20:40:12,122:root:DEBUG:[<dish.Dish instance at 0x10166a290>, <dish.Dish instance at 0x10166a440>, <ingredient.Ingredient instance at 0x1016663f8>]
+2019-08-10 20:49:10,819:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:49:10,819:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:49:10,819:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:49:10,819:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:49:10,819:dish:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/dish.py", line 18, in __init__
+    raise ValueError
+ValueError
+2019-08-10 20:49:10,820:dish:DEBUG:Created - Dish 2
+2019-08-10 20:49:10,820:root:DEBUG:[<dish.Dish instance at 0x105052320>, <dish.Dish instance at 0x1050521b8>, <ingredient.Ingredient instance at 0x10504ecf8>]
+2019-08-10 20:49:34,350:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:49:34,350:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:49:34,350:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:49:34,350:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:49:34,350:dish:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/dish.py", line 18, in __init__
+    raise ValueError
+ValueError
+2019-08-10 20:49:34,351:dish:DEBUG:Created - Dish 2
+2019-08-10 20:49:53,950:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:49:53,951:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:49:53,952:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:49:53,952:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:49:53,952:dish:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/dish.py", line 18, in __init__
+    raise ValueError
+ValueError
+2019-08-10 20:49:53,954:dish:DEBUG:Created - Dish 2
+2019-08-10 20:49:53,954:root:DEBUG:[<dish.Dish instance at 0x10359d290>, <dish.Dish instance at 0x10359d440>, <ingredient.Ingredient instance at 0x1035993f8>]
+2019-08-10 20:50:07,590:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:50:07,592:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:50:07,592:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:50:07,592:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:50:07,592:dish:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/dish.py", line 18, in __init__
+    raise ValueError
+ValueError
+2019-08-10 20:50:07,594:dish:DEBUG:Created - Dish 2
+2019-08-10 20:50:25,240:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:50:25,241:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:50:25,241:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:50:25,241:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:50:25,241:dish:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/dish.py", line 18, in __init__
+    raise ValueError
+ValueError
+2019-08-10 20:50:25,241:dish:DEBUG:Created - Dish 2
+2019-08-10 20:50:25,241:meal:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/meal.py", line 19, in __init__
+    raise ValueError
+ValueError
+2019-08-10 20:53:58,423:meal:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/meal.py", line 19, in __init__
+    raise ValueError
+ValueError
+2019-08-10 20:55:15,505:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 20:55:15,505:ingredient:INFO:Ingredient Created: banana
+2019-08-10 20:55:15,505:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 20:55:15,506:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 20:55:15,506:dish:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/dish.py", line 18, in __init__
+    raise ValueError
+ValueError
+2019-08-10 20:55:15,506:dish:DEBUG:Created - Dish 2
+2019-08-10 20:55:15,506:meal:ERROR:
+Traceback (most recent call last):
+  File "/Users/michaelwalker/Desktop/mealplan/meal.py", line 20, in __init__
+    raise ValueError
+ValueError
+2019-08-10 20:55:15,506:root:DEBUG:None

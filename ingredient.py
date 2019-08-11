@@ -43,13 +43,9 @@ class Ingredient:
 
                         logger.info('Ingredient Created: {}'.format(ingred_name))
                 except ValueError as e:
-                        logger.exception('Invalid')
-                        print(e)
+                        logger.exception(e)
+                        
                     
-                
-
-    
-
         def getIngredientType(self):
                 return self.type
 
