@@ -13,20 +13,11 @@ logger.addHandler(file_handler)
 class Dish:
 
         def __init__(self, name, ingredients, recipe):
-                try:
-                        if type(name) != str or name == '':
-                                raise ValueError
-                        elif type(ingredients) != list:
-                                raise ValueError
-                        elif type(recipe) != str:
-                                raise ValueError
-                        else:
-                                self.recipe = recipe
-                                self.ingredients = ingredients
-                                self.name = name
-                        logger.debug('Created - {}'.format(name))
-                except ValueError as e:
-                        logger.exception(e)
+            self.recipe = recipe
+            self.ingredients = ingredients
+            self.name = name
+            logger.debug('Created - {}'.format(name))
+
 
 
         def getIngredients(self):

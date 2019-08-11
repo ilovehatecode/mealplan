@@ -162,3 +162,32 @@ Traceback (most recent call last):
     raise ValueError
 ValueError
 2019-08-10 20:55:15,506:root:DEBUG:None
+2019-08-10 21:02:47,450:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 21:02:47,450:ingredient:INFO:Ingredient Created: banana
+2019-08-10 21:02:47,450:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 21:02:47,450:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 21:02:47,450:dish:DEBUG:Created - 
+2019-08-10 21:02:47,450:dish:DEBUG:Created - Dish 2
+2019-08-10 21:02:47,451:root:DEBUG:[sampleDish1, sampleDish2, banana]
+2019-08-10 21:03:30,802:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 21:03:30,802:ingredient:INFO:Ingredient Created: banana
+2019-08-10 21:03:30,803:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 21:03:30,803:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 21:03:30,803:dish:DEBUG:Created - 
+2019-08-10 21:03:30,803:dish:DEBUG:Created - Dish 2
+2019-08-10 21:03:30,803:root:DEBUG:[<dish.Dish instance at 0x10159a290>, <dish.Dish instance at 0x10159a440>, <ingredient.Ingredient instance at 0x101596998>]
+2019-08-10 21:04:01,451:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 21:04:01,451:ingredient:INFO:Ingredient Created: banana
+2019-08-10 21:04:01,452:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 21:04:01,452:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 21:04:01,452:dish:DEBUG:Created - Dish 1
+2019-08-10 21:04:01,452:dish:DEBUG:Created - Dish 2
+2019-08-10 21:04:01,453:root:DEBUG:[<dish.Dish instance at 0x104783290>, <dish.Dish instance at 0x104783440>, <ingredient.Ingredient instance at 0x10477f998>]
+2019-08-10 21:05:59,712:ingredient:INFO:Ingredient Created: green pepper
+2019-08-10 21:05:59,713:ingredient:INFO:Ingredient Created: banana
+2019-08-10 21:05:59,713:ingredient:INFO:Ingredient Created: strawberry
+2019-08-10 21:05:59,713:ingredient:INFO:Ingredient Created: spinach
+2019-08-10 21:05:59,713:dish:DEBUG:Created - Dish 1
+2019-08-10 21:05:59,714:dish:DEBUG:Created - Dish 2
+2019-08-10 21:05:59,714:meal:INFO:Meal Created - [<dish.Dish instance at 0x102668320>, <dish.Dish instance at 0x1026681b8>, <ingredient.Ingredient instance at 0x102668a28>]
+2019-08-10 21:05:59,714:root:DEBUG:[<dish.Dish instance at 0x102668320>, <dish.Dish instance at 0x1026681b8>, <ingredient.Ingredient instance at 0x102668a28>]

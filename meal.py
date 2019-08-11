@@ -12,14 +12,8 @@ logger.addHandler(file_handler)
 class Meal:
 
     def __init__(self, meal):
-        self.meal = None
-        try:
-            if type(meal) == list:
-                self.meal = meal
-            else:
-                raise ValueError
-        except ValueError as e:
-                logger.exception(e)
+        self.meal = meal
+        logger.info('Meal Created - {}'.format())
 
     def getMeal(self):
         return self.meal

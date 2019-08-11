@@ -13,3 +13,4 @@ Traceback (most recent call last):
   File "/Users/michaelwalker/Desktop/mealplan/meal.py", line 20, in __init__
     raise ValueError
 ValueError
+2019-08-10 21:05:59,714:meal:INFO:Meal Created - [<dish.Dish instance at 0x102668320>, <dish.Dish instance at 0x1026681b8>, <ingredient.Ingredient instance at 0x102668a28>]

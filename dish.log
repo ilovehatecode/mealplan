@@ -42,3 +42,11 @@ Traceback (most recent call last):
     raise ValueError
 ValueError
 2019-08-10 20:55:15,506:dish:DEBUG:Created - Dish 2
+2019-08-10 21:02:47,450:dish:DEBUG:Created - 
+2019-08-10 21:02:47,450:dish:DEBUG:Created - Dish 2
+2019-08-10 21:03:30,803:dish:DEBUG:Created - 
+2019-08-10 21:03:30,803:dish:DEBUG:Created - Dish 2
+2019-08-10 21:04:01,452:dish:DEBUG:Created - Dish 1
+2019-08-10 21:04:01,452:dish:DEBUG:Created - Dish 2
+2019-08-10 21:05:59,713:dish:DEBUG:Created - Dish 1
+2019-08-10 21:05:59,714:dish:DEBUG:Created - Dish 2

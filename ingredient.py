@@ -26,24 +26,12 @@ class IngredientType(Enum):
 class Ingredient:
 
         def __init__(self, ingred_name, ingred_type):
-                self.name = None
-                self.type = None
-                try:
-                        if ingred_name == '':
-                            raise ValueError
-                        elif type(ingred_name) != str:
-                                raise ValueError
-                        else:   
-                            self.name = str.upper(ingred_name)
+            self.name = str.upper(ingred_name)
+            self.type = ingred_type.name
+                      
 
-                        if ingred_type in IngredientType:
-                            self.type = ingred_type.name
-                        else:
-                            raise ValueError
-
-                        logger.info('Ingredient Created: {}'.format(ingred_name))
-                except ValueError as e:
-                        logger.exception(e)
+            logger.info('Ingredient Created: {}'.format(ingred_name))
+               
                         
                     
         def getIngredientType(self):
